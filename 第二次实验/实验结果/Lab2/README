@@ -1,0 +1,12 @@
+# a.img文件结构
+
+-root
+    -HOUSE
+        -ROOM
+    -NJU
+        -CS
+        -SOFTWARE
+            -SE1.TXT
+            -SE2.TXT
+        -ABOUT.TXT
+    -ROLL.TXT
